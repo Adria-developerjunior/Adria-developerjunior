@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil 
+## Bem-vindo(a) ao meu perfil ヾ(＠^▽^＠)ﾉ
 
 <div>
 	<a href="https://github.com/Adria-developerjunior">
@@ -18,7 +18,7 @@
 
 <br>
 
-### Meu Linkedln e meu gmail caso queiram entrar em contato!!
+### Meu Linkedln e meu gmail caso queiram entrar em contato!! ヾ(ゝω・)ノ
 
 <div>
 	<a href="https://www.linkedin.com/in/adria-vit%C3%B3ria-669a8725b/" target="_blank"><img src="https://img.shields.io/badge/-Linkedln-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
